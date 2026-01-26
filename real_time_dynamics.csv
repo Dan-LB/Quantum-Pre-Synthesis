@@ -1,2 +1,0 @@
-Q,TYPE,SEED,MODE1,MODE2,EPS,initial_tcount,global_greedy_tcount,final_layerwise_tcount,final_final_tcount,num_layers
-4,T,0,solovay_kitaev,kak,0.01,15356,13522,15134,13522,11
